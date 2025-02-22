@@ -6,7 +6,7 @@
     <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?> >
-<div class="navbar bg-amber-300" style="background-color: yellowgreen">
+<div class="navbar bg-amber-300">
   <div class="navbar-start">
     <div class="dropdown">
       <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
