@@ -2,7 +2,7 @@
 function my_custom_blog_scripts()
 {
     // Enqueue Tailwind CSS
-    wp_enqueue_style('my-custom-blog-style', get_theme_file_uri('./output.css'));
+    wp_enqueue_style('my-custom-blog-style', get_theme_file_uri('/output.css'));
 }
 add_action('wp_enqueue_scripts', 'my_custom_blog_scripts');
 
