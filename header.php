@@ -55,7 +55,7 @@
     </ul>
   </div>
   <div class="navbar-end">
-    <a class="btn">Button</a>
+    <a class="btn btn-primary">Button</a>
   </div>
 </div>
 
