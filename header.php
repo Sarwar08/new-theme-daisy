@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php wp_head(); ?>
 </head>
-<body <?php body_class(); ?> class="bg-slate-100">
-<div class="navbar bg-base-100">
+<body <?php body_class(); ?> >
+<div class="navbar bg-amber-300">
   <div class="navbar-start">
     <div class="dropdown">
       <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
