@@ -1908,9 +1908,9 @@ html {
   border-radius: var(--rounded-box, 1rem);
 }
 
-.bg-amber-300 {
+.bg-amber-400 {
   --tw-bg-opacity: 1;
-  background-color: rgb(252 211 77 / var(--tw-bg-opacity, 1));
+  background-color: rgb(251 191 36 / var(--tw-bg-opacity, 1));
 }
 
 .bg-base-100 {
